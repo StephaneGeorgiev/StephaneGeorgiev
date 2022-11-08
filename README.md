@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephaneGeorgiev
 - 👀 I’m interested in HTML,CSS and JavaScript. 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on fron-end web developpment projects.
+- 💞️ I’m looking to collaborate on front-end web developpment projects.
 - 📫 How to reach me: just email me at: georgiev_stefan@abv.bg
 
 <!---
