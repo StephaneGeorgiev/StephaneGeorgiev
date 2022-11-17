@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephaneGeorgiev
+- 👋 Hi, I’m Stephan Georgiev
 - 👀 I’m interested in HTML, CSS and JavaScript. 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on front-end web developpment projects.
